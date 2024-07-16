@@ -2,6 +2,8 @@ Business Insights 360
 
 In this project-based learning, I harnessed the power of various essential tools, enabling a comprehensive exploration of AtliQ Hardware's business model across global markets. 🌍
 
+Dataset Source: The dataset used for this analysis was provided by Get Job Ready: Power BI Data Analytics for All Levels course by Codebasics, created by Dhaval Patel & Hemanand Vadivel.
+
 🛠️ Tools Used:
 
 Power BI: Microsoft's leading business analytics tool that provided a robust platform for creating interactive visualizations and insightful reports, enhancing data-driven decision-making. 💡
